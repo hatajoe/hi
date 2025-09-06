@@ -1,0 +1,5 @@
+# hi
+
+```
+npx @hatajoe/hi
+```
